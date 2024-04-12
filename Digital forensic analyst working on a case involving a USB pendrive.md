@@ -38,11 +38,11 @@ man foremost
 
 The syntax for using Foremost is as follows:
 
-foremost -i (forensic image) -o (output folder) -options
+`foremost -i (forensic image) -o (output folder) -options`
 
 To recover the jpg image from from the dd image file, use the following command syntax:
 
-foremost -t jpg -i <input_file> -o <output_directory>
+`foremost -t jpg -i <input_file> -o <output_directory>`
 
 ![image](https://github.com/RahulMMenon011/Cyber_Forensics/assets/140642506/328fb5f1-62fa-48c0-89e8-34d1224245e6)
 
